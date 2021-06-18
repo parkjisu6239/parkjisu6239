@@ -2,14 +2,20 @@
 ![followers](https://img.shields.io/github/followers/parkjisu6239?style=social)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjisu6239)](https://github.com/anuraghazra/github-readme-stats)
+<div d-flex>
+  
+  <div>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjisu6239)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
-<h3 align="center"><b> 🖐 Hi! 👋 </b></h3>
-</br>
-<div align="center">
-  <p>열심히 공부중인 예비 개발자입니다!</p>
-  <p>주전공 : 수학, 복수전공 : 빅데이터</p>
-  <p>SSAFY 5th : 2021.01~ing</p>
+  <h3 align="center"><b> 🖐 Hi! 👋 </b></h3>
+  </br>
+  <div align="center">
+    <p>열심히 공부중인 예비 개발자입니다!</p>
+    <p>주전공 : 수학, 복수전공 : 빅데이터</p>
+    <p>SSAFY 5th : 2021.01~ing</p>
+  </div>
+  
 </div>
 <hr>
 
