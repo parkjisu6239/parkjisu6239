@@ -4,11 +4,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjisu6239)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center"><b>🛠 Hi! 🛠</b></h3>
+<h3 align="center"><b> 🖐 Hi! 👋 </b></h3>
 </br>
 <p align="center">
-  열심히 공부중인 예비 개발자입니다!
-  주전공 : 수학, 복수전공 : 빅데이터
+  <div>열심히 공부중인 예비 개발자입니다!</div>
+  <div>주전공 : 수학, 복수전공 : 빅데이터</div>
+  <div>SSAFY 5th : 2021.01~ing</div>
 </p>
 
 
