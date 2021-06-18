@@ -4,6 +4,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjisu6239)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="center"><b>🛠 Hi! 🛠</b></h3>
+</br>
+<p align="center">
+  열심히 공부중인 예비 개발자입니다!
+  주전공 : 수학, 복수전공 : 빅데이터
+</p>
+
 
 <h3 align="center"><b>🛠 Tech stack 🛠</b></h3>
 </br>
@@ -17,14 +24,16 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
+</br>
 
-<h3 align="center"><b>🛠 Frameworks and libraries 🛠</b></h3>
+<h3 align="center"><b>⚙ Frameworks and libraries ⚙</b></h3>
 </br>
 <p align="center">
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
+</br>
 
 <h3 align="center"><b>🖌 Design 🖌</b></h3>
 </br>
@@ -32,6 +41,7 @@
   <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </p>
+</br>
 
 <h3 align="center"><b>⛓ IDEs/Editors ⛓</b></h3>
 </br>
