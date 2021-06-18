@@ -6,12 +6,12 @@
 
 <h3 align="center"><b> 🖐 Hi! 👋 </b></h3>
 </br>
-<p align="center">
-  <div>열심히 공부중인 예비 개발자입니다!</div>
-  <div>주전공 : 수학, 복수전공 : 빅데이터</div>
-  <div>SSAFY 5th : 2021.01~ing</div>
-</p>
-
+<div align="center">
+  <p>열심히 공부중인 예비 개발자입니다!</p>
+  <p>주전공 : 수학, 복수전공 : 빅데이터</p>
+  <p>SSAFY 5th : 2021.01~ing</p>
+</div>
+</hr>
 
 <h3 align="center"><b>🛠 Tech stack 🛠</b></h3>
 </br>
@@ -25,7 +25,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-</br>
+</hr>
 
 <h3 align="center"><b>⚙ Frameworks and libraries ⚙</b></h3>
 </br>
@@ -34,7 +34,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
-</br>
+</hr>
 
 <h3 align="center"><b>🖌 Design 🖌</b></h3>
 </br>
@@ -42,7 +42,7 @@
   <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </p>
-</br>
+</hr>
 
 <h3 align="center"><b>⛓ IDEs/Editors ⛓</b></h3>
 </br>
