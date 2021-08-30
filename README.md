@@ -53,10 +53,3 @@
 <div class="test">
   hhh
 </div>
-
-<style>
-  .test:hover {
-    color: red;
-  }
-</style>
-
