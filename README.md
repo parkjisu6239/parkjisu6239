@@ -9,7 +9,7 @@
   <p>열심히 공부중인 예비 개발자입니다!</p>
   <p>주전공 : 수학, 복수전공 : 빅데이터</p>
   <p>SSAFY 5th : 2021.01~ing</p>
-  <h4>My portfolio, click <a href="https://www.notion.so/Portfolio-667c8c77d28748d1a5c4ef8b277f45a8">here</a></h4>
+  <h4>My portfolio, click <a href="https://powerful-overcoat-50b.notion.site/Portfolio-667c8c77d28748d1a5c4ef8b277f45a8">here</a></h4>
 </div>
 <hr>
 
