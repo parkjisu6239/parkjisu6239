@@ -11,11 +11,12 @@
 <div align="center">
   <h3><b> 🖐 Hi! I'm a developer who's growing every day! </b></h3>
   <div>My major is <b>math</b> 📐 and I studied <b>Big data</b> with a double major.</div>
-  <div>I love to <b>make</b>, <b>decorate</b>, and <b>organize</b> things. :) I usually do the <b>front end</b>, but I also enjoy the back end!</div>
+  <div>I love to <b>make</b>✂, <b>decorate</b>💅, and <b>organize</b>🧹 things. :) I usually do the <b>front end</b>, but I also enjoy the back end!</div>
   <div>It hasn't been long since I started developing it. But as I started late, I'm working harder than others.</div>
   <div><b>My portfolio, click 👉 <a href="https://powerful-overcoat-50b.notion.site/Portfolio-667c8c77d28748d1a5c4ef8b277f45a8">here</a> 👈</b></div>
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
