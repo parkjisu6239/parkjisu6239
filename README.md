@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=auto&section=header&text=Jisu%20Git&fontSize=50&animation=twinkling&fontColor=ffffff&fontAlignY=45)
+![image](https://user-images.githubusercontent.com/42528189/132482714-b218472e-2e53-41ea-9278-3bde39c8e24a.png)
 
 <div align="center">
   
@@ -17,11 +17,6 @@
 </div>
 
 <br/>
-
-![image](https://user-images.githubusercontent.com/42528189/132482714-b218472e-2e53-41ea-9278-3bde39c8e24a.png)
-
-<br/>
-
 
 <div align="center">
   
