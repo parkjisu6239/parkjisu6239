@@ -49,6 +49,8 @@
 
 <div align="center" style="display: flex; gap: 5px; justify-content: center; align-items: flex-start;">
   
+![Leetcode Stats](https://leetcard.jacoblin.cool/parkjisu6239?theme=unicorn&ext=heatmap)
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjisu6239)](https://github.com/anuraghazra/github-readme-stats)
 
 
