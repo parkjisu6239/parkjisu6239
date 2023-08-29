@@ -5,15 +5,6 @@
 
 </div>
 
-![image](https://user-images.githubusercontent.com/42528189/132482714-b218472e-2e53-41ea-9278-3bde39c8e24a.png)
-
-
-
-<br>
-
-
-# 근거있는 개발자 박지수입니다.
-
 
 ### *Who am I*
 
@@ -27,7 +18,6 @@
 - 일을 미루지 않습니다. 책임감이 강하고 계획을 세우고, 잘 지킵니다.
 - 여러 사람과 일을 해본 경험이 많습니다.
 - SSAFY 코치로 근무한 이력이 있습니다.
-- 현재는 `streami`에서 프론트엔드 개발자로 근무하고 있습니다.
 - 더 자세한 설명은 <a href="https://g-water.notion.site/667c8c77d28748d1a5c4ef8b277f45a8">포트폴리오</a>를 참고해주세요
 
 <br>
@@ -41,7 +31,8 @@
 ### *Experience*
 - 2020.02 ~ 2020.10 | AMPM 글로벌(퍼포먼스 마케터)
 - 2022.01 ~ 2022.03 | 삼성 청년 소프트웨어 아카데미 6기 실습 코치
-- 2022.03 ~ 현재 | Streami FE developer
+- 2022.03 ~ 2023.03 | Streami FE developer
+- 2022.03 ~ 2023.03 | 단비교육 FE developer
 
 <br/>
 <hr/>
@@ -73,22 +64,5 @@
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white"/>
 
-
-</br>
-
-### ⚙ Frameworks and libraries
-
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
-
-
-</br>
-
-### 🎨 Design
-
-<img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=auto&section=footer&text=Have%20a%20nice%20day!&fontSize=20&fontColor=ffffff&fontAlignY=75)
